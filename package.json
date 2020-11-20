@@ -1,0 +1,22 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "project to create microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'comiing soon'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatinderSidhu/microservices.git"
+  },
+  "keywords": [
+    "microservice"
+  ],
+  "author": "Satinder Sidhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SatinderSidhu/microservices/issues"
+  },
+  "homepage": "https://github.com/SatinderSidhu/microservices#readme"
+}
